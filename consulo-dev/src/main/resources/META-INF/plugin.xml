@@ -1,0 +1,35 @@
+<consulo-plugin url="https://github.com/consulo/consulo-template-collection">
+    <id>consulo.plugin.template.consulo.dev</id>
+    <name>Consulo Developing</name>
+    <description><![CDATA[
+    Running, debugging
+    Consulo in sandbox
+    ]]></description>
+    <tags>
+        <tag>template.plugin</tag>
+    </tags>
+    <vendor>consulo.io</vendor>
+
+    <depends>consulo.java</depends>
+    <depends>consulo.javaee</depends>
+    <depends>org.intellij.groovy</depends>
+    <depends>com.intellij.git</depends>
+    <depends>org.jetbrains.plugins.github</depends>
+    <depends>org.jetbrains.plugins.yaml</depends>
+    <depends>com.intellij.xml</depends>
+    <depends>com.intellij.regexp</depends>
+    <depends>com.intellij.tasks</depends>
+    <depends>com.intellij.spellchecker</depends>
+    <depends>com.intellij.junit</depends>
+    <depends>com.intellij.velocity</depends>
+    <depends>com.intellij.properties</depends>
+    <depends>com.intellij.images</depends>
+
+    <depends>com.intellij.uiDesigner</depends>
+    <depends>consulo.jflex</depends>
+    <depends>com.intellij.gwt</depends>
+    <depends>consulo.devkit</depends>
+
+    <depends>consulo.library.batik</depends>
+    <depends>consulo.library.flexmark</depends>
+</consulo-plugin>

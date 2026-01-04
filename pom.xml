@@ -26,6 +26,7 @@
     </repositories>
 
     <modules>
+        <module>consulo-dev</module>
         <module>dotnet-ide</module>
         <module>java-ide</module>
         <module>unity-ide</module>
