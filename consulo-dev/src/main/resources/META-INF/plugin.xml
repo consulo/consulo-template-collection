@@ -27,7 +27,6 @@
 
     <depends>com.intellij.uiDesigner</depends>
     <depends>consulo.jflex</depends>
-    <depends>com.intellij.gwt</depends>
     <depends>consulo.devkit</depends>
 
     <depends>consulo.library.batik</depends>
