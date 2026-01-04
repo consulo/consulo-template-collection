@@ -28,5 +28,6 @@
     <modules>
         <module>dotnet-ide</module>
         <module>java-ide</module>
+        <module>unity-ide</module>
     </modules>
 </project>
