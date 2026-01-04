@@ -1,0 +1,35 @@
+<consulo-plugin url="https://github.com/consulo/consulo-template-collection">
+    <id>consulo.plugin.template.dotnet.ide</id>
+    <name>.NET IDE</name>
+    <description><![CDATA[
+    Running, debugging
+    C# code
+    ]]></description>
+    <tags>
+        <tag>template.plugin</tag>
+    </tags>
+    <vendor>consulo.io</vendor>
+
+    <depends>com.intellij.git</depends>
+    <depends>org.jetbrains.plugins.github</depends>
+    <depends>com.intellij.xml</depends>
+    <depends>com.intellij.regexp</depends>
+    <depends>com.intellij.tasks</depends>
+    <depends>com.intellij.spellchecker</depends>
+    <depends>com.intellij.properties</depends>
+    <depends>com.intellij.images</depends>
+
+    <depends>consulo.csharp</depends>
+    <depends>consulo.dotnet</depends>
+    <depends>consulo.dotnet.mono</depends>
+    <depends>consulo.dotnet.microsoft</depends>
+    <depends>consulo.dotnet.core</depends>
+    <depends>consulo.dap</depends>
+    <depends>consulo.msbuild</depends>
+    <depends>consulo.nunit</depends>
+    <depends>consulo.nuget</depends>
+    <depends>consulo.opencover</depends>
+
+    <depends>consulo.library.batik</depends>
+    <depends>consulo.library.flexmark</depends>
+</consulo-plugin>

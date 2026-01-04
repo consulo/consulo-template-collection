@@ -26,6 +26,7 @@
     </repositories>
 
     <modules>
+        <module>dotnet-ide</module>
         <module>java-ide</module>
     </modules>
 </project>
