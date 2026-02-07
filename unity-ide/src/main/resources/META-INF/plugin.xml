@@ -8,7 +8,12 @@
     <tags>
         <tag>template.plugin</tag>
     </tags>
+    
     <vendor>consulo.io</vendor>
+
+    <vendors>
+        <vendor>consulo.io</vendor>
+    </vendors>
 
     <depends>com.intellij.git</depends>
     <depends>org.jetbrains.plugins.github</depends>
@@ -19,6 +24,7 @@
     <depends>com.intellij.properties</depends>
     <depends>com.intellij.images</depends>
 
+    <depends>consulo.json</depends>
     <depends>consulo.csharp</depends>
     <depends>consulo.dotnet</depends>
     <depends>consulo.dotnet.mono</depends>
@@ -27,7 +33,6 @@
     <depends>consulo.audio</depends>
     <depends>consulo.nunit</depends>
     <depends>consulo.nuget</depends>
-    <depends>consulo.javascript</depends>
     <depends>consulo.fontviewer</depends>
     <depends>org.jetbrains.plugins.yaml</depends>
 

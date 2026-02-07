@@ -10,6 +10,11 @@
     </tags>
     <vendor>consulo.io</vendor>
 
+    <vendors>
+        <vendor>consulo.io</vendor>
+    </vendors>
+
+    <depends>consulo.json</depends>
     <depends>consulo.java</depends>
     <depends>com.intellij.git</depends>
     <depends>org.jetbrains.plugins.github</depends>

@@ -10,6 +10,10 @@
     </tags>
     <vendor>consulo.io</vendor>
 
+    <vendors>
+        <vendor>consulo.io</vendor>
+    </vendors>
+
     <depends>consulo.java</depends>
     <depends>consulo.javaee</depends>
     <depends>org.intellij.groovy</depends>
