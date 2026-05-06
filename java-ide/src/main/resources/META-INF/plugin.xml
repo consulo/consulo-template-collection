@@ -29,6 +29,9 @@
     <depends>org.jetbrains.plugins.gradle</depends>
     <depends>com.intellij.properties</depends>
     <depends>com.intellij.images</depends>
+    <depends>consulo.jakarta.web</depends>
+    <depends>consulo.spring</depends>
+    <depends>org.jetbrains.plugins.yaml</depends>
 
     <depends>consulo.library.batik</depends>
     <depends>consulo.library.flexmark</depends>
